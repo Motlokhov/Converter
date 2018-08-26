@@ -1,0 +1,12 @@
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\bin\Debug\x86\pdfium.dll
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\bin\Debug\x64\pdfium.dll
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\bin\Debug\ConvertPDFtoTiff.exe
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\bin\Debug\ConvertPDFtoTiff.pdb
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\bin\Debug\PdfiumViewer.dll
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\bin\Debug\PdfiumViewer.xml
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\obj\Debug\ConvertPDFtoTiff.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\obj\Debug\ConvertPDFtoTiff.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\obj\Debug\ConvertPDFtoTiff.csproj.CopyComplete
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\obj\Debug\ConvertPDFtoTiff.exe
+C:\Users\Михаил\source\repos\ConvertPDFtoTiff\ConvertPDFtoTiff\obj\Debug\ConvertPDFtoTiff.pdb
